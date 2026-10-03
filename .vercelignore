@@ -1,6 +1,6 @@
 .next
 node_modules
 .env.local
-supabase
+/supabase
 AGENTS.md
 CLAUDE.md
